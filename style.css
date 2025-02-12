@@ -14,7 +14,7 @@
 }
 .firstnavmenuitem1{
     float: right;
-    margin: 10px;
+    margin: 20px;
     color: rgba(255, 255, 255, .90);
     padding: 0px 10px;
     font-family: "Roboto", sans-serif;
@@ -37,7 +37,7 @@
 }
 .firstnavmenuitem3{
     float: right;
-    margin: 10px;
+    margin: 20px;
     color: rgba(255, 255, 255, .90);
     padding: 0px 10px;
     font-family: "Roboto", sans-serif;
@@ -46,7 +46,7 @@
     font-weight: 400;
 }
 .firstnav{
-    height: 34px;
+    height: 40px;
     background-color: #cd2927;;
     margin-top: -20px;
     margin-left: -7.0px;
